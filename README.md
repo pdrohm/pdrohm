@@ -19,3 +19,16 @@
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=5ed3f3)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2391e7)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=838dba)
+
+
+
+<a name="Desenvolvimento"></a>
+## Desenvolvimento
+
+<a name="phflix"></a>
+   ### PHFLIX
+   - #### Este projeto é uma réplica do layout da Netflix usando React e consumindo a API do site <a href="https://www.themoviedb.org/?language=pt-BR"> tmdb</a>.   
+   - #### O projeto foi desenvolvido com layout responsivo, como podemos ver abaixo o design simulando um iphone X.
+     ![DEMO](https://media0.giphy.com/media/16uuCm1dx5DpWmI4Sv/giphy.gif)
+     ![Layout Responsivo](https://media.giphy.com/media/KjeDPTs0yUNpaI1prb/giphy.gif)
+   
