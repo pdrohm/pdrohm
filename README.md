@@ -29,6 +29,6 @@
    ### PHFLIX
    - #### Este projeto é uma réplica do layout da Netflix usando React e consumindo a API do site <a href="https://www.themoviedb.org/?language=pt-BR"> tmdb</a>.   
    - #### O projeto foi desenvolvido com layout responsivo, como podemos ver abaixo o design simulando um iphone X.
-     ![DEMO](https://media0.giphy.com/media/16uuCm1dx5DpWmI4Sv/giphy.gif)
+     ![DEMO](https://media.giphy.com/media/OZQ05WtQs6TE9IfETF/giphy-downsized-large.gif)
      ![Layout Responsivo](https://media.giphy.com/media/KjeDPTs0yUNpaI1prb/giphy.gif)
    
