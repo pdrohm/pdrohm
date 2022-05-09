@@ -32,3 +32,8 @@
      ![DEMO](https://media.giphy.com/media/OZQ05WtQs6TE9IfETF/giphy-downsized-large.gif)
      ![Layout Responsivo](https://media.giphy.com/media/KjeDPTs0yUNpaI1prb/giphy.gif)
    
+
+<a name="Star Wars"></a>
+   ### Star Wars - Characters Hyb
+   - #### Este projeto é sistema de busca de personagens de Star Wars, utilizando React e consumindo a API do site <a href="https://www.swapi.dev"> swapi</a>.  
+   - #### Link:  <a href="https://pdr0hm.github.io/starwars/"> Star Wars - CharacterHub!</a>
