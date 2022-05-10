@@ -35,5 +35,5 @@
 
 <a name="Star Wars"></a>
    ### Star Wars - Characters Hub
-   - #### Este projeto é sistema de busca de personagens de Star Wars, utilizando React e consumindo a API do site <a href="https://www.swapi.dev"> swapi</a>.  
+   - #### Este projeto é sistema de busca de personagens de Star Wars, utilizando React e consumindo a API do site <a href="https://swapi.dev"> swapi</a>.  
    - #### Link:  <a href="https://pdr0hm.github.io/starwars/"> Star Wars - CharacterHub!</a>
