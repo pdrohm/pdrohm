@@ -1,8 +1,8 @@
 ## Olá Github! 👋
 
 
-- 🔭 Atualmente eu trabalho como desenvolvedor estagiário no Instituto Senai de Tecnologia - IST.
-- 🌱 Estou estudando React, PHP e Python. Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina - IFSC.
+- 🔭 Atualmente eu trabalho como desenvolvedor Jr na Innova Connect, tendo como stack Vue, React, Node e PHP.
+- 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina - IFSC.
 - 🤔 Gosto de estudar sobre Segurança da Informação, principalmente na parte de pentest e vulnerabilidades.
 
 - ⚡ Fato curioso: Cursei 2 anos de Educação Física, sou apaixonado por Jiu Jitsu e decidi trancar pois não me havia atuando na área, descobri depois a programação, sendo que sou apaixonado por computador desde pequeno.
