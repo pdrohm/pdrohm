@@ -37,3 +37,11 @@
    ### Star Wars - Characters Hub
    - #### Este projeto é sistema de busca de personagens de Star Wars, utilizando React, Tailwind CSS e consumindo a API do site <a href="https://swapi.dev" target="_blank"> swapi</a>.  
    - #### Link:  <a href="https://pdr0hm.github.io/starwars/" target="_blank"> Star Wars - CharacterHub!</a>
+
+
+<a name="Solar Analytic Chart"></a>
+   ### Solar Analytics Chart
+   - #### Este projeto é sistema de análise de Irradiância solar, proveniente de de células solares de referência , utilizando React, Vite, Tailwind CSS e utilizando libs como Chart.js e Papaparse</a>.  
+   - #### Link:  <a href="https://solar-analysis.onrender.com/" target="_blank"> Solar Analytics!</a>
+   - #### Arquivo csv teste:  <a href="https://file.io/7LWmnp9DtjQF" target="_blank"> Baixar arquivo teste!</a>
+
