@@ -1,7 +1,7 @@
 ## Olá Github! 👋
 
 
-- 🔭 Atualmente eu trabalho como desenvolvedor Jr na Innova Connect, tendo como stack Vue, React, Node e PHP.
+- 🔭 Atualmente eu trabalho como desenvolvedor Jr Web e Mobile no Instituto SENAI de Tecnologia, tendo como stack principal React Native e React.
 - 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina - IFSC.
 - 🤔 Gosto de estudar sobre Segurança da Informação, principalmente na parte de pentest e vulnerabilidades.
 
