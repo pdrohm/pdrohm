@@ -1,7 +1,7 @@
 ## Olá Github! 👋
 
 
-- 🔭 Atualmente eu trabalho como desenvolvedor Jr Web e Mobile no Instituto SENAI de Tecnologia, tendo como stack principal React Native e React.
+- 🔭 Atualmente eu trabalho como desenvolvedor Web e Mobile no Instituto SENAI de Tecnologia, tendo como stack principal React Native e React.
 - 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina - IFSC.
 - 🤔 Gosto de estudar sobre Segurança da Informação, principalmente na parte de pentest e vulnerabilidades.
 
@@ -25,27 +25,4 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 
 
-
-<a name="Desenvolvimento"></a>
-## Desenvolvimento
-
-<a name="phflix"></a>
-   ### PHFLIX
-   - #### Este projeto é uma réplica do layout da Netflix usando React e consumindo a API do site <a href="https://www.themoviedb.org/?language=pt-BR"> tmdb</a>.   
-   - #### O projeto foi desenvolvido com layout responsivo, como podemos ver abaixo o design simulando um iphone X.
-     ![DEMO](https://media.giphy.com/media/OZQ05WtQs6TE9IfETF/giphy-downsized-large.gif)
-     ![Layout Responsivo](https://media.giphy.com/media/KjeDPTs0yUNpaI1prb/giphy.gif)
-   
-
-<a name="Star Wars"></a>
-   ### Star Wars - Characters Hub
-   - #### Este projeto é sistema de busca de personagens de Star Wars, utilizando React, Tailwind CSS e consumindo a API do site <a href="https://swapi.dev" target="_blank"> swapi</a>.  
-   - #### Link:  <a href="https://pdr0hm.github.io/starwars/" target="_blank"> Star Wars - CharacterHub!</a>
-
-
-<a name="Solar Analytic Chart"></a>
-   ### Solar Analytics Chart
-   - #### Este projeto é sistema de análise de Irradiância solar, proveniente de de células solares de referência , utilizando React, Vite, Tailwind CSS e utilizando libs como Chart.js e Papaparse</a>.  
-   - #### Link:  <a href="https://solar-analysis.onrender.com/" target="_blank"> Solar Analytics!</a>
-   - #### Arquivo csv teste:  <a href="https://file.io/7LWmnp9DtjQF" target="_blank"> Baixar arquivo teste!</a>
 
