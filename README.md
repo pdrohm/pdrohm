@@ -1,18 +1,17 @@
-## Olá Github! 👋
+## Sup Github 👋
 
 
-- 🔭 Atualmente eu trabalho como desenvolvedor Web e Mobile no Instituto SENAI de Tecnologia, tendo como stack principal React Native e React.
-- 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina - IFSC.
-- 🤔 Gosto de estudar sobre Segurança da Informação, principalmente na parte de pentest e vulnerabilidades.
+- 🔭 I'm currently working as mobile developer at Instituto SENAI de Tecnologia, with React Native as main stack.
+- 🌱 I'm studying Analysis and Systems development at UNINTER ( IFSC -> UNINTER).
+- 🤔 I like to study about Sec Info, specially pentest and vulnerabilities. 
 
-- ⚡ Fato curioso: Cursei 2 anos de Educação Física, sou apaixonado por Jiu Jitsu e decidi trancar pois não me havia atuando na área, descobri depois a programação, sendo que sou apaixonado por computador desde pequeno.
-
-
-
-- 📫 Contato: opedrohenriquemarques@gmail.com
+- ⚡ Fun Fact: I studied 2 years of Physical Education. I'm passionate about Jiu Jitsu and decided to quit because I didn't see myself working in the area. I discovered programming later, and I've been passionate about computers since I was little.
 
 
-## Tecnologias e Ferramentas
+- 📫 Contact: opedrohenriquemarques@gmail.com
+
+
+## Techs and tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=ubuntu&logoColor=white&color=92b662)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=057dca)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=efd81d)
