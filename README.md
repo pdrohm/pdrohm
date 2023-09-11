@@ -9,7 +9,7 @@
 
 
 - 📫 Contact: opedrohenriquemarques@gmail.com
-- Portfolio: https://phmarques.com.br (in progress).
+- Portfolio: https://www.phmarques.com.br.
 
 
 ## Techs and tools
