@@ -1,7 +1,7 @@
 ## Sup Github 👋
 
 
-- 🔭 I'm currently working as mobile developer at Instituto SENAI de Tecnologia, with React Native as main stack.
+- 🔭 I'm currently working as mobile developer at Instituto SENAI de Tecnologia, with React and React Native as main stack.
 - 🌱 I'm studying Analysis and Systems development at UNINTER ( IFSC -> UNINTER).
 - 🤔 I like to study about Sec Info, specially pentest and vulnerabilities. 
 
@@ -9,7 +9,7 @@
 
 
 - 📫 Contact: opedrohenriquemarques@gmail.com
-- Portfolio: phmarques.com.br (in progress).
+- Portfolio: https://phmarques.com.br (in progress).
 
 
 ## Techs and tools
