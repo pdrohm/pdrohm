@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm currently working as mobile developer at Instituto SENAI de Tecnologia, with React and React Native as main stack.
-- 🌱 I'm studying Analysis and Systems development at UNINTER ( IFSC -> UNINTER).
+- 🌱 I'm studying Analysis and Systems development at UNIASSELVI
 - 🤔 I like to study about Sec Info, specially pentest and vulnerabilities. 
 
 - ⚡ Fun Fact: I studied 2 years of Physical Education. I'm passionate about Jiu Jitsu and decided to quit because I didn't see myself working in the area. I discovered programming later, and I've been passionate about computers since I was little.
