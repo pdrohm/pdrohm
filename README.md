@@ -2,13 +2,12 @@
 
 
 - 🔭 I'm currently working as mobile developer at Instituto SENAI de Tecnologia, with React and React Native as main stack.
-- 🌱 I'm studying Analysis and Systems development at UNIASSELVI
-- 🤔 I like to study about Sec Info, specially pentest and vulnerabilities. 
-
-- ⚡ Fun Fact: I studied 2 years of Physical Education. My hobbies includes Jiu Jitsu and gym. I decided to quit P.E because I didn't see myself working in the area. I discovered programming later, and I've been passionate about computers since I was little.
+- 🌱 I'm studying Analysis and Systems development at UNIASSELVI.
+- 🤔 I like to study about Sec Info, specially pentest, vulnerabilities and hardware hacking. 
 
 
-- 📫 Contact: opedrohenriquemarques@gmail.com
+
+- 📫 Contact: phmarquesdev@gmail.com
 - Portfolio: https://www.phmarques.com.br.
 
 
