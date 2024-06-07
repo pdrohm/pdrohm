@@ -11,19 +11,39 @@
 - Portfolio: https://www.phmarques.com.br.
 
 
-
-
 ## Skills:
 
 <div style="display: flex; align-items: flex-start; flex-direction: row;">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+    <div style="text-align: center; margin: 0 10px;">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <div>React</div>
+    </div>
+    <div style="text-align: center; margin: 0 10px;">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+        <div>Nginx</div>
+    </div>
+    <div style="text-align: center; margin: 0 10px;">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <div>JavaScript</div>
+    </div>
+    <div style="text-align: center; margin: 0 10px;">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        <div>TypeScript</div>
+    </div>
+    <div style="text-align: center; margin: 0 10px;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <div>Docker</div>
+    </div>
+    <div style="text-align: center; margin: 0 10px;">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+        <div>REST API</div>
+    </div>
+    <div style="text-align: center; margin: 0 10px;">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
+        <div>GraphQL</div>
+    </div>
 </div>
+
 
 
 
