@@ -1,6 +1,6 @@
 ## Sup Github 👋
 
-- 🔭 I'm currently working as a mobile developer at Instituto SENAI de Tecnologia, with React and React Native as my main stack.
+- 🔭 I'm currently working as a mobile developer at Portal Telemedicina, with React Native as my main stack.
 - 🌱 I'm studying Analysis and Systems Development at UNIASSELVI.
 - 🤔 I like to study about Sec Info, especially pentest, vulnerabilities, and hardware hacking.
 
