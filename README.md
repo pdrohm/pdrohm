@@ -1,7 +1,7 @@
 ## Sup Github 👋
 
 - 🔭 I'm currently working as a mobile developer at Portal Telemedicina, with React Native as my main stack.
-- 🌱 I'm studying Analysis and Systems Development at UNIASSELVI.
+- 🌱 I'm studying Analysis and Systems Development at UNINTER.
 - 🤔 I like to study about Sec Info, especially pentest, vulnerabilities, and hardware hacking.
 
 - 📫 Contact: phmarquesdev@gmail.com
