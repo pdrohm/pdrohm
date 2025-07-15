@@ -1,57 +1,52 @@
-## Sup Github 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- 🔭 I'm currently working as a mobile developer at Portal Telemedicina, with React Native as my main stack.
-- 🌱 I'm studying Analysis and Systems Development at UNINTER.
-- 🤔 I like to study about Sec Info, especially pentest, vulnerabilities, and hardware hacking.
+###
 
-- 📫 Contact: phmarquesdev@gmail.com
-- Portfolio: https://phmarques.com.br.
+<p align="left">I'm Pedro Henrique Marques and I'm a mobile developer from Brazil with 5+ years of experience building scalable mobile applications. I specialize in React, React Native, TypeScript, and Node.js, and I’m passionate about crafting high-quality, maintainable code.</p>
 
-## Skills:
+###
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="text-align: center; border: none; padding: 10px;">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <div>React</div>
-    </td>
-    <td style="text-align: center; border: none; padding: 10px;">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Native" width="65" height="65" />
-      <div>React Native</div>
-    </td>
-    <td style="text-align: center; border: none; padding: 10px;">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-      <div>Nginx</div>
-    </td>
-    <td style="text-align: center; border: none; padding: 10px;">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <div>JavaScript</div>
-    </td>
-    <td style="text-align: center; border: none; padding: 10px;">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <div>TypeScript</div>
-    </td>
-    <td style="text-align: center; border: none; padding: 10px;">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <div>Docker</div>
-    </td>
-    <td style="text-align: center; border: none; padding: 10px;">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-      <div>REST API</div>
-    </td>
-    <td style="text-align: center; border: none; padding: 10px;">
-      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
-      <div>GraphQL</div>
-    </td>
-  </tr>
-</table>
+<h2 align="left">About me</h2>
 
-### Outras:
+###
 
-- NodeJS
-- PHP
-- Linux
-- MacOS
-- iOS e Android deployment
-- TailwindCSS
-- Firebase
+<p align="left">✨ Creating bugs since 2020<br>🔧 Currently working at Portal Telemedicina, building telehealth solutions that impact lives across Brazil.<br>🚀 Interested in mobile innovation, native modules, CI/CD automation, and engineering for scalability.<br>📚 Always learning: recently diving into Swift/UIKit, Jiu-Jitsu, and piano. <br>📦 I work on white-label apps, custom configurations, Firebase Remote Config, and deployment pipelines using Fastlane.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/pdrohm/pdrohm/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">
+### 📫 Let's connect<br><br>- 💬 [LinkedIn](https://www.linkedin.com/in/pdrohm)  <br>- 📬 phmarquesdev@gmail.com  <br>- 🌐 [Portfolio / Personal Website](https://phmarques.com.br)</p>
+
+###
